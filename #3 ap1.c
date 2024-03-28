@@ -1,7 +1,7 @@
 #include <stdio.h> // <stdio.h> 라이브러리를 포함
 #include <stdlib.h> // <stdlib.h> 라이브러리를 포함
 
-int main() { // main함수 시작
+void main() { // main함수 시작
     printf("[----- [오다영] [2023041090] -----]\n"); // 이름 학번 출력 
 
     int list[5]; // int형 배열 list 선언
